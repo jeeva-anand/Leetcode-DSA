@@ -25,4 +25,20 @@
 | ------- |
 | [0015-3sum](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0977-squares-of-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
