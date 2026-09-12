@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0073-set-matrix-zeroes) |
+| [0283-move-zeroes](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0015-3sum](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
