@@ -1,59 +1,59 @@
 class Solution {
 
-    public void setZeroes(int[][] arr, int row, int col) {
-        
-        
-        int m = arr.length;
-        int n = arr[0].length;
-
-        for(int r=0;r<m;r++){
-            if(arr[r][col] != -1)
-                arr[r][col] = 0;
-        }
-
-        for(int c=0;c<n;c++){
-            if(arr[row][c] != -1)
-                arr[row][c] = 0;
-        }
-
-        arr[row][col] = 0;
-
-    }
+    
 
     public void setZeroes(int[][] matrix) {
         
         int m = matrix.length;
         int n = matrix[0].length;
-        boolean row[] = new boolean[m];
-        boolean col[] = new boolean[n];
+        boolean rowZero = false;
+        boolean colZero = false;
         
-        
+        for(int i=0;i<n;i++){
+            if(matrix[0][i] == 0) rowZero = true;
+        }
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
+        for(int j=0;j<m;j++){
+            if(matrix[j][0] == 0) colZero = true;
+        }
+
+
+        for(int i=1;i<m;i++){
+            for(int j=1;j<n;j++){
                 if(matrix[i][j] == 0){
-                    row[i] = true;
-                    col[j] = true;
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
                 }
             }
         }
 
-        for(int i=0;i<m;i++){
-            if(row[i] == true){
+        for(int i=1;i<m;i++){
+            if(matrix[i][0] == 0){
                 for(int c=0;c<n;c++){
                     matrix[i][c] = 0;
                 }
             }
         }
 
-        for(int i=0;i<n;i++){
-            if(col[i] == true){
+        for(int i=1;i<n;i++){
+            if(matrix[0][i] == 0){
                 for(int r=0;r<m;r++){
                     matrix[r][i] = 0;
                 }               
             }
         }
+
+        if(rowZero){
+            for(int c=0;c<n;c++){
+                matrix[0][c] = 0;
+            }
+        }
       
+        if(colZero){
+            for(int r=0;r<m;r++){
+                matrix[r][0] = 0;
+            }
+        }
 
     }
 }
