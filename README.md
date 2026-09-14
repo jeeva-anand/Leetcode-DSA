@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
