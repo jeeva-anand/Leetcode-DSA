@@ -17,12 +17,21 @@ class Solution {
                 
         if(head == null || head.next == null) return head;
        
+        ListNode prev = null;
         ListNode curr = head;
-        ListNode nextNode = curr.next;
-        head = reverseList(curr.next);
-        nextNode.next = curr;
-        curr.next = null;
-        return head;  
+        ListNode nextNode = curr;
+
+        while(curr != null){
+
+            nextNode = nextNode.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+            
+        }
+
+
+        return prev;  
     }
 
 
