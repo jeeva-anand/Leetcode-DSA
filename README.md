@@ -41,6 +41,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -100,4 +101,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/jeeva-anand/https-github.com-jeeva-anand-Decode-DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
